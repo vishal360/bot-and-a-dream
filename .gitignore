@@ -1,0 +1,21 @@
+# secrets
+.env
+*.key
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+# node
+node_modules/
+.next/
+out/
+dist/
+# db
+*.db
+*.sqlite
+# os
+.DS_Store
+Thumbs.db
+# logs
+logs/
