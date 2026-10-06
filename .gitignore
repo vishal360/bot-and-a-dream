@@ -1,10 +1,10 @@
 # secrets
 .env
-*.key
-lighter.txt
-lighter*.txt
 .env.local
 .env.*.local
+lighter.txt
+lighter*.txt
+*.key
 # python
 __pycache__/
 *.pyc
